@@ -4,7 +4,6 @@
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
-  line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.jpg");
@@ -238,5 +237,6 @@ margin: 0 0 12px;
 }
 .fone {
     font-size: 16px;
-  line-height: 0;
+  padding: 10px 0px 0px 0px;
+    margin: 20px 0px 0px;
 }
