@@ -238,7 +238,10 @@ margin: 0 0 12px;
   padding: 10px 0px 10px 0px;
 }
 .fone p {
-    font-size: 16px;
+  font-size: 16px;
+ }
+.fone {
+  font-size: 16px;
   padding: 10px 0px 0px 0px;
   margin: 20px 0px 0px;
- }
+}
