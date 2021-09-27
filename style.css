@@ -68,6 +68,7 @@
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
+  font-size: 5px;
 }
 
 .hero-image {
@@ -224,11 +225,13 @@ margin: 0 0 12px;
 .footer-email {
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
+  font-size: 12px;
 }
 
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+  font-size: 12px;
 }
 .size {
     font-size: 16px;
