@@ -20,6 +20,7 @@
   background-position: top center;
 }
 
+   }
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -100,7 +101,6 @@
   font-weight: 400;
   text-align: center;
   /*line-height: 200px;*/
-
 }
 
 .user-image {
